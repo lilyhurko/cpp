@@ -1,0 +1,3 @@
+D:/studia/sem5/C++/kolokwium_hurko/Zad2/cmake-build-debug/CMakeFiles/Zad2.dir
+D:/studia/sem5/C++/kolokwium_hurko/Zad2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/studia/sem5/C++/kolokwium_hurko/Zad2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
